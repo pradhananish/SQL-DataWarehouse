@@ -10,6 +10,9 @@ within the database: 'bronze', 'silver', and 'gold'.
 WARNING:
 Running this script will drop the entire 'DataWarehouse' database if it exists.
 All data in the database will be permanently deleted. Proceed with caution
+
+
+----------------------------------------
 use master;
 go
 
