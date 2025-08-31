@@ -1,4 +1,4 @@
-# sql-data-ware-house
+# SQL-DataWarehouse
 Building a modern data wearhouse with SQL server , including ETL  process , data modelingg , and analytics
 
 Welcome to the Data Warehouse and Analytics Project repository! 
